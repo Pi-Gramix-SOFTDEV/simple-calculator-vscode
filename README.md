@@ -3,9 +3,7 @@ this is the code for a simple visual calculator
 
 
 
-# Python program to  create a simple GUI  
-# calculator using Tkinter 
-  
+
 # import everything from tkinter module 
 from tkinter import *
   

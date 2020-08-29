@@ -1,7 +1,7 @@
 # simple-calculator-vscode
 this is the code for a simple visual calculator
 
-this is the code :
+
 
 # Python program to  create a simple GUI  
 # calculator using Tkinter 
